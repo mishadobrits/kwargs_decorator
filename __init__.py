@@ -1,0 +1,1 @@
+from kwargs_decorator import kwargs_decorator_generator
